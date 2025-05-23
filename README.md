@@ -147,6 +147,7 @@ while True:
      ```
    - Spark submit
      ```
-     spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 pyspark_consumer.py
+     spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0 spark_streaming.py
      ```
-     ![WhatsApp Image 2025-05-22 at 18 40 31_2c2d6b13](https://github.com/user-attachments/assets/282f26c3-4d99-4fe4-83ed-989baf789381)
+     ![image](https://github.com/user-attachments/assets/73e7a263-e82e-4d6d-9aec-eb6f20c02335)
+
